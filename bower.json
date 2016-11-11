@@ -1,0 +1,21 @@
+{
+  "name": "react-express-app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rikilamadrid <riki.lamadrid@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.3.2",
+    "skeleton": "^2.0.4"
+  }
+}

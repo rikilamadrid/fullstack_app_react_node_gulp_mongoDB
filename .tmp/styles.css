@@ -1,0 +1,31 @@
+
+body {
+    padding-top: 3em;
+    color: #a9b527;
+    font-family: 'Merriweather', serif;
+}
+
+.purchased-false {
+    height: 40px;
+    background-color: rgb(5, 255, 0);
+}
+
+.purchased-true {
+    height: 40ps;
+    background-color: rgb(255, 0, 0)
+}
+
+.striketrough {
+  text-decoration: line-through;
+  color: rgb(0, 26, 255);
+}
+
+h1 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
+}
+
+.grocery-addItems {
+    margin-top: 1rem;
+    padding-top: 1rem;
+}

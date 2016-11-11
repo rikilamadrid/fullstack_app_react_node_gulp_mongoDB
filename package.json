@@ -1,0 +1,33 @@
+{
+  "name": "react-express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lamadrid",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.0.0",
+    "babel-preset-es2015": "^6.0.0",
+    "babel-core": "^6.18.2",
+    "babel-register": "^6.18.0",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7",
+    "browser-sync": "^2.17.5",
+    "browserify": "^13.1.1",
+    "guid": "0.0.12",
+    "gulp": "^3.9.1",
+    "gulp-live-server": "0.0.30",
+    "jquery": "^3.1.1",
+    "mongoose": "^4.6.6",
+    "react": "^15.3.2",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0"
+  }
+}
